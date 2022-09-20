@@ -1,0 +1,171 @@
+{
+  "Currency": [
+    {
+      "Id": "1",
+      "country": "India",
+      "country_short_cut": "IND",
+      "country_code": "Rupee"
+    },
+    {
+      "Id": "2",
+      "country": "Afghanistan",
+      "country_short_cut": "AFN",
+      "country_code": "Afghani"
+    },
+    {
+      "Id": "3",
+      "country": "Albania",
+      "country_short_cut": "ALL",
+      "country_code": "Lek"
+    },
+    {
+      "Id": "4",
+      "country": "Australia",
+      "country_short_cut": "EUR",
+      "country_code": "Euro"
+    },
+    {
+      "Id": "5",
+      "country": "Bangladesh",
+      "country_short_cut": "BDT",
+      "country_code": "Taka"
+    },
+    {
+      "Id": "6",
+      "country": "Belgium",
+      "country_short_cut": "EUR",
+      "country_code": "Euro"
+    },
+    {
+      "Id": "7",
+      "country": "Canada",
+      "country_short_cut": "CAD",
+      "country_code": "Canadian"
+    },
+    {
+      "Id": "8",
+      "country": "Egypt",
+      "country_short_cut": "EGP",
+      "country_code": "Pound"
+    },
+    {
+      "Id": "9",
+      "country": "Saba",
+      "country_short_cut": "USD",
+      "country_code": "Rupee"
+    },
+    {
+      "Id": "10",
+      "country": "India",
+      "country_short_cut": "IND",
+      "country_code": "Rupee"
+    },
+    {
+      "Id": "11",
+      "country": "India",
+      "country_short_cut": "IND",
+      "country_code": "Rupee"
+    },
+    {
+      "Id": "12",
+      "country": "India",
+      "country_short_cut": "IND",
+      "country_code": "Rupee"
+    },
+    {
+      "Id": "13",
+      "country": "India",
+      "country_short_cut": "IND",
+      "country_code": "Rupee"
+    },
+    {
+      "Id": "14",
+      "country": "India",
+      "country_short_cut": "IND",
+      "country_code": "Rupee"
+    },
+    {
+      "Id": "15",
+      "country": "India",
+      "country_short_cut": "IND",
+      "country_code": "Rupee"
+    },
+    {
+      "Id": "20",
+      "country": "inid",
+      "country_short_cut": "ijy",
+      "country_code": "olkjhgfd",
+      "id": "20"
+    },
+    {
+      "Id": "40",
+      "country": "lij",
+      "country_short_cut": "ijji",
+      "country_code": "iji",
+      "id": "33"
+    },
+    {
+      "Id": "21",
+      "country": "jiiijiij",
+      "country_short_cut": "iii",
+      "country_code": "ij",
+      "id": "45"
+    },
+    {
+      "Id": "23",
+      "country": "india",
+      "country_short_cut": "ind",
+      "country_code": "rupee",
+      "id": "PMy093h"
+    },
+    {
+      "Id": "50",
+      "country": "inida",
+      "country_short_cut": "pin",
+      "country_code": "d",
+      "id": "a-NKnLQ"
+    },
+    {
+      "Id": "122",
+      "country": "pav's",
+      "country_short_cut": "pav",
+      "country_code": "p",
+      "id": "KhF6rRO"
+    },
+    {
+      "Id": "",
+      "country": "",
+      "country_short_cut": "",
+      "country_code": "",
+      "id": "wvUpXL5"
+    },
+    {
+      "Id": "21",
+      "country": "india",
+      "country_short_cut": "ind",
+      "country_code": "91",
+      "id": "bzRs8Wc"
+    },
+    {
+      "Id": "50",
+      "country": "in",
+      "country_short_cut": "ind",
+      "country_code": "rup",
+      "id": "0uaXLbm"
+    },
+    {
+      "Id": "",
+      "country": "",
+      "country_short_cut": "",
+      "country_code": "",
+      "id": "LyjQWoh"
+    },
+    {
+      "Id": "100",
+      "country": "india",
+      "country_short_cut": "IND1",
+      "country_code": "Rupee",
+      "id": "tn6ydE7"
+    }
+  ]
+}
